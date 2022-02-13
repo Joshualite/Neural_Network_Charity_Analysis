@@ -1,6 +1,13 @@
 # Neural_Network_Charity_Analysis
+## Overview
+The objective of this project is to use neural networks to be able to create a binary classifier where we will be helping a company "Alphabet Soup" to know if the applicants for its financing will be successful or not in their business.
+
+## Results
+
+Data Preprocessing
 
 
+The objective variable with which the entire model will be developed is 'IS_SUCCESSFUL', all the other variables will be used to feed the model, the two variables that will be eliminated for the moment are "EIN" and "NAME" since they are really insignificant and they do not add any value to the model.
 
 ![image](https://user-images.githubusercontent.com/66183125/153739455-9eef7557-7b40-4ab1-b2d0-131bd4cb55fa.png)
 ![image](https://user-images.githubusercontent.com/66183125/153739472-7a855273-a1e6-48aa-9eed-0f49613b21a0.png)
